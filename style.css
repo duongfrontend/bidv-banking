@@ -488,4 +488,11 @@
     font-size: 18px;
     animation: showcontent 0.5s ease-in-out 1;
   }
+}
+.account_one .list {
+  text-align: center;
+}
+
+.account_ones .list_txt {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
